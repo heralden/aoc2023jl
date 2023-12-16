@@ -35,8 +35,9 @@ JJJJ2 41"
   @test solve1(ex1) == 6440
   @test solve1(edge1) == 6592
   @test solve1(readinput("day07")) == 248396258
-  # @test solve2(ex1) == 0
-  # @test solve2(readinput("day07")) == 0
+  @test solve2(ex1) == 5905
+  @test solve2(edge1) == 6839
+  @test solve2(readinput("day07")) == 246436046
 end
 
 end
