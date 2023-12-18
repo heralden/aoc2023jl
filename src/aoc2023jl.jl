@@ -9,5 +9,6 @@ include("../src/day06.jl")
 include("../src/day07.jl")
 include("../src/day08.jl")
 include("../src/day09.jl")
+include("../src/day10.jl")
 
 end
